@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/.50e5bd02ccea43e73d49405104396f3c3d630a2d-audit.json",
+    "files": [
+        {
+            "date": 1684795214292,
+            "name": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/2023-05-22.log",
+            "hash": "ccca38b6a5fa56175fd57debf0d3a2aeb3d9d6a026f0829ff9095e2cc0cdb0cb"
+        },
+        {
+            "date": 1684964691035,
+            "name": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/2023-05-24.log",
+            "hash": "c5d55e6555202c5310607a5d25045d294cf506e7eaf69c0815aad0eec70f92ab"
+        },
+        {
+            "date": 1685025695367,
+            "name": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/2023-05-25.log",
+            "hash": "9f734712489edfa6c28c6fcbd0a706edaaaef990414725d11947c5a25718c954"
+        },
+        {
+            "date": 1685114660209,
+            "name": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/2023-05-26.log",
+            "hash": "5b779830433986fc1b5a6206c6dc5323ead6b9e4efa25415e9136c4893f374a3"
+        },
+        {
+            "date": 1685371804547,
+            "name": "/Users/douglashuertas/Sites/localhost/practicas/api-express/logs/2023-05-29.log",
+            "hash": "85a4d943a59f97220d782c6402aa120c9911bac4627d70688aaa4f2ab7bee45f"
+        }
+    ],
+    "hashType": "sha256"
+}
